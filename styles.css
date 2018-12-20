@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://3.bp.blogspot.com/-gEnoj66MlME/W56nBu4HTqI/AAAAAAAACME/PvtiIb85m3IllOusRABJY89jFO7pfI17wCLcBGAs/s1600/803533956-612x612.jpg");
+    text-align:center;
+    }
+h1{
+     color:red;
+     text-align:center;
+    }
+img{
+     width:60%; 
+     height:50%;
+     border:10px solid red;
+     justify-content:space-between;
+    }
+button{
+    color:red;
+    background-color:purple;
+
+}
